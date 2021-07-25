@@ -34,7 +34,7 @@ p {
 }
 
 .container {
-  width: 500px;
+  width: auto;
   margin: 0 auto;
   text-align: center;
   font-size: 22px;
@@ -44,7 +44,6 @@ p {
   display: none;
 }
 #toggle {
-  background-color: #FF6767;
   padding: 15px;
   color: white;
   font-weight: 500;
