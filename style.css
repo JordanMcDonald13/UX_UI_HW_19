@@ -35,12 +35,45 @@ p {
 
 #dropDown {
   display: none;
+  padding: 8px;
 }
-#toggle {
-  padding: 15px;
-  color: white;
-  font-weight: 500;
-  cursor: pointer; 
+#dropDown1 {
+  display: none;
+  padding: 8px;
+}
+
+.toggle{
+  display: inline-block;
+  background-color: #7C9693;
+  
+}
+
+.toggle1{
+  display: inline-block;
+  background-color: #7C9693;
+  
+}
+
+#dropDown2 {
+  display: none;
+  padding: 8px;
+}
+
+.toggle3{
+  display: inline-block;
+  background-color: #7C9693;
+  
+}
+
+#dropDown3 {
+  display: none;
+  padding: 8px;
+}
+
+.toggle2{
+  display: inline-block;
+  background-color: #7C9693;
+  
 }
 
 ul {
