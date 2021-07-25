@@ -33,13 +33,6 @@ p {
   vertical-align: top;
 }
 
-.container {
-  width: auto;
-  margin: 0 auto;
-  text-align: center;
-  font-size: 22px;
-  font-family: "Open Sans", helvetica, sans-serif;
-}
 #dropDown {
   display: none;
 }
