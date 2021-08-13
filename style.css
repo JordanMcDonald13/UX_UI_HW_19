@@ -27,6 +27,7 @@ p {
   padding: 20px;
   justify-content: space-between;
   background-color: #FEF8EC;
+  position: relative;
 }
 
 .navSearch {
@@ -37,7 +38,6 @@ p {
 #dropDown {
   display: none;
   padding: 8px;
-  position: relative;
 }
 
 #dropDown1 {
