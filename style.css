@@ -47,6 +47,7 @@ p {
 .toggle{
   display: inline-block;
   background-color: #7C9693;
+  position: fixed;
   
 }
 
