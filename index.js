@@ -1,17 +1,17 @@
 console.log("your index is loaded correctly");
 
 $("#toggle").on("click", function(){
-    $("#dropDown").fadeToggle();
+    $("#dropDown").slideToggle();
   });
 
   $("#toggle1").on("click", function(){
-    $("#dropDown1").fadeToggle();
+    $("#dropDown1").slideToggle();
   });
 
   $("#toggle2").on("click", function(){
-    $("#dropDown2").fadeToggle();
+    $("#dropDown2").slideToggle();
   });
 
   $("#toggle3").on("click", function(){
-    $("#dropDown3").fadeToggle();
+    $("#dropDown3").slideToggle();
   });
