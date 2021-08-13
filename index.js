@@ -5,13 +5,13 @@ $("#toggle").on("click", function(){
   });
 
   $("#toggle1").on("click", function(){
-    $("#dropDown1").slideToggle();
+    $("#dropDown1").slideDown();
   });
 
   $("#toggle2").on("click", function(){
-    $("#dropDown2").slideToggle();
+    $("#dropDown2").slideDown();
   });
 
   $("#toggle3").on("click", function(){
-    $("#dropDown3").slideToggle();
+    $("#dropDown3").slideDown();
   });
