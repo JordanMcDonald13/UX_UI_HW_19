@@ -37,15 +37,11 @@ p {
 #dropDown {
   display: none;
   padding: 8px;
-  white-space: nowrap;
-  position: relative;
 }
 
 #dropDown1 {
   display: none;
   padding: 8px;
-  white-space: nowrap;
-  position: relative;
 }
 
 .toggle{
@@ -61,8 +57,6 @@ p {
 #dropDown2 {
   display: none;
   padding: 8px;
-  white-space: nowrap;
-  position: relative;
 }
 
 .toggle3{
@@ -74,8 +68,6 @@ p {
 #dropDown3 {
   display: none;
   padding: 8px;
-  white-space: nowrap;
-  position: relative;
 }
 
 .toggle2{
