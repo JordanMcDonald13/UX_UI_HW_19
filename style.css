@@ -38,6 +38,7 @@ p {
   display: none;
   padding: 8px;
 }
+
 #dropDown1 {
   display: none;
   padding: 8px;
@@ -51,8 +52,8 @@ p {
 
 .toggle1{
   display: inline-block;
-  background-color: #7d9693;
-  
+  background-color: #7C9693;
+
 }
 
 #dropDown2 {
