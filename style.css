@@ -44,9 +44,6 @@ p {
   padding: 8px;
 }
 
-#toggle{
-  position: fixed;
-}
 
 .toggle{
   display: inline-block;
