@@ -37,6 +37,7 @@ p {
 #dropDown {
   display: none;
   padding: 8px;
+  position: fixed;
 }
 
 #dropDown1 {
