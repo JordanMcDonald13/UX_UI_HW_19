@@ -46,15 +46,12 @@ p {
 
 .toggle{
   display: inline-block;
-  background-color: #7C9693;
-  position: fixed;
-  
+  background-color: #7C9693;  
 }
 
 .toggle1{
   display: inline-block;
   background-color: #7C9693;
-
 }
 
 #dropDown2 {
@@ -312,4 +309,5 @@ a {
 
 .navList > li {
   display: inline-block;
+  position: fixed;
 }
