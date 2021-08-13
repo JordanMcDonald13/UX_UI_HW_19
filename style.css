@@ -47,11 +47,13 @@ p {
 .toggle{
   display: inline-block;
   background-color: #7C9693;  
+  position: initial;
 }
 
 .toggle1{
   display: inline-block;
   background-color: #7C9693;
+  position: initial;
 }
 
 #dropDown2 {
@@ -62,6 +64,7 @@ p {
 .toggle3{
   display: inline-block;
   background-color: #7C9693;
+  position: initial;
   
 }
 
@@ -73,6 +76,7 @@ p {
 .toggle2{
   display: inline-block;
   background-color: #7C9693;
+  position: initial;
   
 }
 
