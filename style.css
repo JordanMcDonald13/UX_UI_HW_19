@@ -44,15 +44,9 @@ p {
   padding: 8px;
 }
 
-
-.toggle{
+.toggle {
   display: inline-block;
   background-color: #7C9693;  
-}
-
-.toggle1{
-  display: inline-block;
-  background-color: #7C9693;
 }
 
 #dropDown2 {
@@ -60,19 +54,9 @@ p {
   padding: 8px;
 }
 
-.toggle3{
-  display: inline-block;
-  background-color: #7C9693;
-}
-
 #dropDown3 {
   display: none;
   padding: 8px;
-}
-
-.toggle2{
-  display: inline-block;
-  background-color: #7C9693;
 }
 
 ul {

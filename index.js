@@ -1,5 +1,3 @@
-console.log("your index is loaded correctly");
-
 $("#toggle").on("click", function(){
     $("#dropDown").slideToggle();
   });
