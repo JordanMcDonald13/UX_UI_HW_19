@@ -36,14 +36,12 @@ p {
 
 #dropDown {
   display: none;
-  padding: 8px;
-  position: fixed;
+  padding: 10px;
 }
 
 #dropDown1 {
   display: none;
-  padding: 8px;
-  position: fixed;
+  padding: 10px;
 }
 
 .toggle{
@@ -58,7 +56,7 @@ p {
 
 #dropDown2 {
   display: none;
-  padding: 8px;
+  padding: 10px;
 }
 
 .toggle3{
@@ -69,7 +67,7 @@ p {
 
 #dropDown3 {
   display: none;
-  padding: 8px;
+  padding: 10px;
 }
 
 .toggle2{
