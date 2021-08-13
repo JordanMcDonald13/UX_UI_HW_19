@@ -309,5 +309,5 @@ a {
 
 .navList > li {
   display: inline-block;
-  position: fixed;
+  position: absolute;
 }
