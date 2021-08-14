@@ -1,15 +1,7 @@
-$("#toggle").on("click", function(){
-    $("#dropDown").slideToggle();
-  });
+$("#toggle").on("click", () => $("#dropDown").slideToggle());
 
-  $("#toggle1").on("click", function(){
-    $("#dropDown1").slideToggle();
-  });
+$("#toggle1").on("click", () => $("#dropDown1").slideToggle());
 
-  $("#toggle2").on("click", function(){
-    $("#dropDown2").slideToggle();
-  });
+$("#toggle2").on("click", () => $("#dropDown2").slideToggle());
 
-  $("#toggle3").on("click", function(){
-    $("#dropDown3").slideToggle();
-  });
+$("#toggle3").on("click", () => $("#dropDown3").slideToggle());
